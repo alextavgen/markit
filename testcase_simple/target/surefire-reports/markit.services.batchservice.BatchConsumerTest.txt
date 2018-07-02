@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: markit.services.batchservice.BatchConsumerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in markit.services.batchservice.BatchConsumerTest

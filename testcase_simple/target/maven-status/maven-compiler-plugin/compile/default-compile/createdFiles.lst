@@ -1,0 +1,10 @@
+markit/services/PriceServiceImpl.class
+markit/storage/InMemoryPriceDataStorage.class
+markit/storage/PriceDataStorage.class
+markit/services/PriceService.class
+markit/services/batchservice/BatchRunState.class
+markit/exceptions/NotValidStateException.class
+markit/App.class
+markit/services/batchservice/BatchConsumer.class
+markit/models/PriceData.class
+markit/services/batchservice/BatchConsumerImpl.class

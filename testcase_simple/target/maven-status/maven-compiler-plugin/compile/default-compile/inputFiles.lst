@@ -1,0 +1,10 @@
+/Users/aleksandr.tavgen/testcase_simple/src/main/java/markit/services/PriceServiceImpl.java
+/Users/aleksandr.tavgen/testcase_simple/src/main/java/markit/App.java
+/Users/aleksandr.tavgen/testcase_simple/src/main/java/markit/services/batchservice/BatchConsumer.java
+/Users/aleksandr.tavgen/testcase_simple/src/main/java/markit/services/PriceService.java
+/Users/aleksandr.tavgen/testcase_simple/src/main/java/markit/storage/PriceDataStorage.java
+/Users/aleksandr.tavgen/testcase_simple/src/main/java/markit/services/batchservice/BatchConsumerImpl.java
+/Users/aleksandr.tavgen/testcase_simple/src/main/java/markit/services/batchservice/BatchRunState.java
+/Users/aleksandr.tavgen/testcase_simple/src/main/java/markit/exceptions/NotValidStateException.java
+/Users/aleksandr.tavgen/testcase_simple/src/main/java/markit/models/PriceData.java
+/Users/aleksandr.tavgen/testcase_simple/src/main/java/markit/storage/InMemoryPriceDataStorage.java

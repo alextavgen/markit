@@ -1,0 +1,5 @@
+markit/services/batch/BatchConsumerImplTest.class
+markit/Producer.class
+markit/services/PriceServiceImplTest.class
+markit/storage/InMemoryPriceDataStorageTest.class
+markit/Consumer.class
